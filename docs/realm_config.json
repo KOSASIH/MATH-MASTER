@@ -1,0 +1,8 @@
+{
+    "app_id": "math-master-kduuo",
+    "config_version": 20210101,
+    "name": "Math-Master",
+    "location": "US-VA",
+    "deployment_model": "GLOBAL",
+    "environment": "development"
+}
