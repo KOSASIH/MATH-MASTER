@@ -1,7 +1,7 @@
 {
-    "app_id": "triggers_realmapp-mrsfb",
+    "app_id": "math-master-kduuo",
     "config_version": 20210101,
-    "name": "Triggers_RealmApp",
+    "name": "Math-Master",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
     "environment": "production"

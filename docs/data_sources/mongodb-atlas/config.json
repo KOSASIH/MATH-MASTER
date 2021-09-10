@@ -1,5 +1,5 @@
 {
-    "name": "Megatech",
+    "name": "mongodb-atlas",
     "type": "mongodb-atlas",
     "config": {
         "clusterName": "Megatech",
