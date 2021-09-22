@@ -4,5 +4,11 @@
     "name": "Math-Master",
     "location": "US-VA",
     "deployment_model": "GLOBAL",
-    "environment": "production"
+    "environment": "development",
+    "allowed_request_origins": [
+        "https://www.google.com",
+        "http://www.firefox.com",
+        "http://www.bing.com",
+        "http://www.yandex.com"
+    ]
 }
